@@ -1,6 +1,4 @@
-# CONVERSOR DE MOEDA API
-
-# CONVERSOR DE MOEDAS
+# CONVERSOR DE MOEDAS API
 Este repositório contém o código-fonte para um conversor de moedas simples baseado na web. Ele permite que os usuários convertam valores monetários entre diferentes moedas utilizando taxas de câmbio obtidas de uma API externa.
 
 # TECNOLOGIAS ULTILIZADAS 
