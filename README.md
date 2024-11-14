@@ -39,4 +39,4 @@ O projeto final pode ser visto conforme imagem abaixo:
 ![Projeto](projeto.png)
 
 # REFERENCIAS 
-
+[ExchangeRate](https://www.exchangerate-api.com/)
