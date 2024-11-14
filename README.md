@@ -34,5 +34,7 @@ O código consiste em dois arquivos principais:
 # RESULTADO 
 O projeto final pode ser visto conforme imagem abaixo:
 
-<img src= "projeto.png">
+![Projeto](projeto.png)
+
+# REFERENCIAS 
 
